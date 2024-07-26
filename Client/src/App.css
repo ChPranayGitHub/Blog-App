@@ -1,0 +1,108 @@
+body {
+  background-image: url("data:image/jpeg;base64,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");
+  
+}
+
+
+
+
+.post {
+  width: 60%;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.post img {
+  width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+
+.post h2 {
+  font-size: 24px;
+  color: #333;
+  margin-top: 20px;
+}
+
+.post p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #666;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .post {
+    width: 90%;
+    padding: 15px;
+  }
+
+  .post h2 {
+    font-size: 20px;
+  }
+
+  .post p {
+    font-size: 14px;
+  }
+}
+
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 14px;
+  background-color: #f9f9f9;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border-color: #007bff;
+  outline: none;
+  background-color: #fff;
+}
+
+input::placeholder {
+  color: #aaa;
+  font-style: italic;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
